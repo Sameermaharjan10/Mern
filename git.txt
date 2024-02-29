@@ -1,0 +1,14 @@
+ Git : Version control tool
+
+Initial one time setup
+1. git init
+2. git remote add origin <git url>
+    eg: git remote add orgin https://github.com/Sameermaharjan10/Mern
+
+  to check step 2(optional)
+  - git remote-v
+
+
+Daily purpose
+1. git status (optional)
+2. git add .
