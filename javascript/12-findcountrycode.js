@@ -1213,7 +1213,12 @@ let countries = [
     - if i pass arguement "zimbabwe" to the function it should return me zw
 
 */
+
+function
 let NepalCode = findCountryCode("Nepal")
+
+let numbers = [1,2,3,4,5];
+numbers
 
 /* 
 
