@@ -48,4 +48,3 @@ numbers[i] = numbers[i] *2;
 console.log(numbers);
 //code here to double the elements of numbers
 
-grereer
